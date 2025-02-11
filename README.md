@@ -37,7 +37,6 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying Software Development in Győr.
 - 🌱 Continuously learning and growing in the world of programming.
 - 💼 Aspiring FullStack Developer.
 - 🎯 Dedicated and always up for a challenge!
